@@ -1,0 +1,29 @@
+{
+  "studentRegistration": {
+    "firstName": "Noah",
+    "lastName": "Daniels",
+    "email": "noahdaniels@gmail.com",
+    "emailWithSpecialCharacter": "noahdaniels!@gmail.com",
+    "emailWithSpace": "noahda niels@gmail.com",
+    "emailWithMissingDot": "noahdaniels@gmailcom",
+    "emailWithMissingAt": "noahdanielsgmail.com",
+    "gender": "Male",
+    "phone": "07768696150",
+    "phoneTooShort": "0776869",
+    "phoneWithSpace": "07768 69615",
+    "phoneWithSpecialCharacter": "077686961!",
+    "phoneWithLetter": "077686961A",
+    "dateOfBirth": {
+      "year": "2100",
+      "month": "January",
+      "day": "01"
+    },
+    "futureDateOfBirth": {
+      "year": "2100",
+      "month": "November",
+      "day": "21"
+    },
+    "hobbies": ["Music", "Sports"],
+    "address": "Albion House, Savile St, Sheffield S4 7UD"
+  }
+}
